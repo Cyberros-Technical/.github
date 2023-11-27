@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberros-technical&label=Profile%20views&color=ff0000&style=flat" alt="cyberros-technical" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberros-technical" alt="cyberros-technical" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cyberros" target="blank"><img src="https://img.shields.io/twitter/follow/cyberros?logo=twitter&style=for-the-badge" alt="cyberros" /></a> </p>
 
 - 💬 Ask me about **React, Vue, PHP, Java and Flutter**
